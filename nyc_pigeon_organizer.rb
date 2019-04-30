@@ -32,6 +32,3 @@ def nyc_pigeon_organizer(data)
   end.to_h
 
 end
-
-
-puts nyc_pigeon_organizer(pigeon_data)
